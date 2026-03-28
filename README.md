@@ -127,6 +127,7 @@ superstore-sales-analysis/
 
 ---
 
+<img width="757" height="414" alt="image" src="https://github.com/user-attachments/assets/fad90d0c-ed45-444c-a988-a5ffc898bd33" />
 
 
 
